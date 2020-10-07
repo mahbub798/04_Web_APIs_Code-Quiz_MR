@@ -44,4 +44,4 @@ The following animation demonstrates the application functionality:
 ![code quiz](./assets/images/QuizHomepage.gif)
 ![code quiz](./assets/images/QuestionsPage.gif)
 ![code quiz](./assets/images/Submitscorepage.gif)
-![code quiz](./assets/images/Showhighscorespage.gif)
+![code quiz](./assets/images/ShowHighscorespage.gif)
